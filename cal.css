@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+
+#cal{
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+    margin-top: 180px;
+}
+
+#display{
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    width: 20%;
+    color: black;
+
+}
+
+
+button{
+    font-size: large;
+    font-weight: bold;
+    padding: 15px;
+    text-align: center;
+    margin-top: 15px;
+    margin-right: 10px;
+    margin-left: 8px;
+    border-radius: 10px;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: dimgray;
+}
+
+.opr{
+    background-color: darkgoldenrod;
+}
+
+#clear{
+    background-color: firebrick;
+}
+
+#equals{
+    background-color: green;
+}
